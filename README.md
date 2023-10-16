@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aysu</h1>
 
-<p align="center">- 🌱 I’m currently learning <strong>Figma</strong>.</p>
+<p align="center">- 🌱 I’m currently learning <strong>UX</strong> and <strong>UI</strong> with <strong>Figma</strong>.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
